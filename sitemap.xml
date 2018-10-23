@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https:/wiki/test/</loc>
+    
+    <lastmod>2018-10-23T03:56:59.496Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https:/tags/index.html</loc>
     
     <lastmod>2018-10-23T03:12:05.916Z</lastmod>
