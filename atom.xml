@@ -3,11 +3,11 @@
   <title>Wiki</title>
   
   
-  <link href="healim.github.io/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https:/"/>
-  <updated>2018-10-23T03:56:59.496Z</updated>
-  <id>https:/</id>
+  <link href="https://healim.github.io/"/>
+  <updated>2018-10-23T04:10:04.698Z</updated>
+  <id>https://healim.github.io/</id>
   
   <author>
     <name>Healim</name>
@@ -18,12 +18,12 @@
   
   <entry>
     <title>test</title>
-    <link href="https:/wiki/test/"/>
-    <id>https:/wiki/test/</id>
+    <link href="https://healim.github.io/wiki/test/"/>
+    <id>https://healim.github.io/wiki/test/</id>
     <published>2018-10-23T03:56:23.000Z</published>
-    <updated>2018-10-23T03:56:59.496Z</updated>
+    <updated>2018-10-23T04:10:04.698Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote><ul><li><a href=""></a></li><li><a href=""></a><br>테스트입니다</li></ul></blockquote>]]></content>
+    <content type="html"><![CDATA[<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote><ul><li><a href=""></a></li><li><a href=""></a></li></ul></blockquote>]]></content>
     
     <summary type="html">
     
@@ -32,7 +32,7 @@
         &lt;h2 id=&quot;参考资料&quot;&gt;&lt;a href=&quot;#参考资料&quot; class=&quot;headerlink&quot; title=&quot;参考资料&quot;&gt;&lt;/a&gt;参考资料&lt;/h2&gt;&lt;blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;br
+&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/l
       
     
     </summary>
@@ -42,8 +42,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https:/wiki/hello-world/"/>
-    <id>https:/wiki/hello-world/</id>
+    <link href="https://healim.github.io/wiki/hello-world/"/>
+    <id>https://healim.github.io/wiki/hello-world/</id>
     <published>2018-10-23T03:01:33.122Z</published>
     <updated>2018-10-23T03:01:33.122Z</updated>
     
